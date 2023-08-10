@@ -1,0 +1,48 @@
+.titlu {
+
+    background-color: #AAA;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    transition: background-color 0.3s;
+
+
+
+}
+
+.titlu:hover {
+
+    background-color: aquamarine;
+
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 95px;
+    margin-top: 20px;
+    margin-left: 0 auto;
+    text-align: center;
+
+
+
+}
+
+tr,
+th,
+td {
+    text-align: center;
+    width: 25%;
+    vertical-align: middle;
+    padding: 3.93px;
+}
+
+.fain {
+    background-color: white;
+    text-align: center;
+    width: 0%;
+}
